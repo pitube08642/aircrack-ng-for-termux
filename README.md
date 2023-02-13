@@ -12,7 +12,7 @@ Now, we need to install aircrack-ng manually in termux
 1. Need to download & install termux from f-droid
 2. run this command 
 ``` 
-apt update & apt upgrade -y  
+apt update && apt upgrade -y  
 ```
 3. run 
 ```
